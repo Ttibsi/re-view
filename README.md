@@ -1,4 +1,4 @@
-# REVIEW - Regex Viewer
+# RE-VIEW - Regex Viewer
 
 A TUI application for viewing and testing regex.
 
@@ -7,10 +7,13 @@ Commands:
 * Press `enter` in the regex textbox to test your regex.
 * `C-q` to quit
 
-ReView will tell you if you've got a valid regex or not.
+Re-view will tell you if you've got a valid regex or not.
 
 ### HOW TO RUN
-Download a binary build for x86 macos/linux from the releases page
+Download a binary for your operating system from the releases page.
+You will need to add it to your PATH to easily run it. The 
+run command is `re-view`. You can also pass a pre-formed regex as an 
+argument to the executable - ex: `re-view "[tf]oo"`
 
 Prerequisites: `cmake`, `make`
 ```bash
