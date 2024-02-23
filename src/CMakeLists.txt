@@ -1,7 +1,7 @@
 include_directories(${PROJECT_SOURCE_DIR}/src)
 include_directories(${PROJECT_SOURCE_DIR}/include)
 
-add_library(lib SHARED
+add_library(lib STATIC
         model.cpp
         utils.cpp
 )

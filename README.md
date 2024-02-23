@@ -9,6 +9,8 @@ Commands:
 
 Re-view will tell you if you've got a valid regex or not.
 
+[![asciicast](https://asciinema.org/a/aNYpY5fLJwSL7FbtbksmKj1F9.svg)](https://asciinema.org/a/aNYpY5fLJwSL7FbtbksmKj1F9)
+
 ### HOW TO RUN
 Download a binary for your operating system from the releases page.
 You will need to add it to your PATH to easily run it. The 
